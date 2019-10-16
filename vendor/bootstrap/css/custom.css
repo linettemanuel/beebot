@@ -2,6 +2,11 @@ html {
     overflow: hidden;
 }
 
+::-webkit-scrollbar {
+    width: O;
+    background: transparent;
+}
+
 body {
     background-image: linear-gradient(180deg, #f1b032 0%, #f6bf42 10%, #f7c246 15%, #f9c94e 30%, #fbce54 39%, #fdd359 65%, #fed55b 76%, #ffd95f 100%);
     font-family: "IBM Plex Sans";
