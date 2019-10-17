@@ -227,16 +227,16 @@ input::placeholder {
     font-weight: 700;
 }
 
-#current h1 {
+#hive h1 {
     font-size: 550%;
 }
 
-#current p {
+#hive p {
     margin-left: 15%;
     font-size: 1em;
 }
 
-#current p:first-child {
+#hive p:first-child {
     color: #4b370e;
     font-family: "IBM Plex Mono";
     font-weight: 400;
@@ -248,7 +248,7 @@ input::placeholder {
     margin: auto;
 }
 
-#current p:first-child span {
+#hive p:first-child span {
     color: #fff;
     font-weight: 700;
 }
@@ -286,3 +286,7 @@ input::placeholder {
     display: none;
 }
 
+.nav-link {
+    font-size: 1.3rem;
+    margin-right: 1.5rem;
+}
